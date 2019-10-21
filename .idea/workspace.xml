@@ -40,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../C_Project_Demo" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -95,7 +95,7 @@
       <workItem from="1571101723405" duration="13574000" />
       <workItem from="1571189007248" duration="2809000" />
       <workItem from="1571274390711" duration="2511000" />
-      <workItem from="1571620078048" duration="20680000" />
+      <workItem from="1571620078048" duration="21084000" />
     </task>
     <servers />
   </component>
@@ -112,6 +112,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/C_C-_Project" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
