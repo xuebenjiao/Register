@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb2060b8-0049-41ab-8c22-3b90dc47cb34" name="Default Changelist" comment="" />
+    <list default="true" id="bb2060b8-0049-41ab-8c22-3b90dc47cb34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../C_Project_Demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../c_demo/Register" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -95,7 +97,7 @@
       <workItem from="1571101723405" duration="13574000" />
       <workItem from="1571189007248" duration="2809000" />
       <workItem from="1571274390711" duration="2511000" />
-      <workItem from="1571620078048" duration="21084000" />
+      <workItem from="1571620078048" duration="21825000" />
     </task>
     <servers />
   </component>
