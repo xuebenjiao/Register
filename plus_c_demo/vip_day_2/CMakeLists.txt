@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.14)
+
+set(EXECUTABLE_OUTPUT_PATH  ${PROJECT_BINARY_DIR})
+
+aux_source_directory(./src APP_SRC)
+
+add_executable(day_vip_2 ${APP_SRC} src/MyTeather.cpp includes/MyTeather.h)
+#add_executable(day_vip_2 ${APP_SRC})

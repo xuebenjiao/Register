@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/androidProject/ClionProject/Register/plus_c_demo/vip_day_2/includes/MyTeather.h
+
+E:/androidProject/ClionProject/Register/plus_c_demo/vip_day_2/src/MyTeather.cpp
+../includes/MyTeather.h
+E:/androidProject/ClionProject/Register/plus_c_demo/vip_day_2/includes/MyTeather.h
+
+E:/androidProject/ClionProject/Register/plus_c_demo/vip_day_2/src/d02_classmain.cpp
+iostream
+-
+../includes/MyTeather.h
+E:/androidProject/ClionProject/Register/plus_c_demo/vip_day_2/includes/MyTeather.h
+

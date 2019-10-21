@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/androidProject/ClionProject/Register/DynamicRegister.c
+jni.h
+E:/androidProject/ClionProject/Register/jni.h
+
+E:/androidProject/ClionProject/Register/jni.h
+stdio.h
+-
+stdarg.h
+-
+jni_md.h
+E:/androidProject/ClionProject/Register/jni_md.h
+
+E:/androidProject/ClionProject/Register/jni_md.h
+

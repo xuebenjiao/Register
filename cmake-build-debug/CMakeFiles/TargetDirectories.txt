@@ -1,0 +1,5 @@
+E:/androidProject/ClionProject/Register/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/androidProject/ClionProject/Register/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/androidProject/ClionProject/Register/cmake-build-debug/plus_c_demo/vip_day_3/CMakeFiles/day_vip_3.dir
+E:/androidProject/ClionProject/Register/cmake-build-debug/plus_c_demo/vip_day_3/CMakeFiles/edit_cache.dir
+E:/androidProject/ClionProject/Register/cmake-build-debug/plus_c_demo/vip_day_3/CMakeFiles/rebuild_cache.dir
